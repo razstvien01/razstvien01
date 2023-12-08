@@ -1,7 +1,7 @@
 
 <img align="center" alt="sky" width=1200 height=200 src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
 
-<h1 align="center">Hi 👋, I'm Nicolen Evanz Aricayos</h1>
+<h1 align="center">Hi 👋, my name is Nico.</h1>
 <h3 align="center">A passionate software and computer engineer from the Philippines.</h3>
 <img align="right" alt="Coding" width=400 height=550 src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
 
