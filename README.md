@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Track Flaw](https://github.com/razstvien01/track-flaw)
 
-- 🌱 I’m currently learning **Machine Learning, Vite, Spring Boot, KonvaJS**
+- 🌱 I’m currently learning **Machine Learning, KonvaJS, Django**
 
 - 👯 I’m looking to collaborate on [Mocking Board](https://github.com/RevyaS/MockingBoard)
 
