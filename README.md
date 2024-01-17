@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Track Flaw](https://github.com/razstvien01/track-flaw)
 
-- 🌱 I’m currently learning **Machine Learning, KonvaJS, Django, UI/UX Design, and Figma**
+- 🌱 I’m currently learning **Machine Learning, KonvaJS, Django, Flask, UI/UX Design, and Figma**
 
 - 👯 I’m looking to collaborate on [Mocking Board](https://github.com/RevyaS/MockingBoard)
 
-- 💬 Ask me about **NextJS, ReactJS, Firebase, MySQL**
+- 💬 Ask me about **NextJS, ReactJS, Firebase, MySQL, Sequelize**
 
 - 📫 How to reach me **nicolenevanz.aricayos@gmail.com**
 
