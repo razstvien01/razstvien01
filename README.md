@@ -18,7 +18,8 @@
 
 - ⚡ Fun fact **I think I'm funny and good.**
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=razstvien01&theme=dark" alt="razstvien01" style="margin-right: 10px;" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=radical&locale=en" alt="razstvien01" /></p>
+
 
 <h3 align="center">&nbspLanguages and Tools:</h3>
 <div align="left">
@@ -173,7 +174,7 @@
   <table>
     <tr>
       <td>
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=radical&locale=en" alt="razstvien01" /></p>
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=razstvien01&theme=dark" alt="razstvien01" style="margin-right: 10px;" />
       </td>
       <td style="padding-left: 10px;">
         <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razstvien01&show_icons=true&theme=radical&locale=en&layout=compact" alt="razstvien01" /></p>
