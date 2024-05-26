@@ -1,7 +1,7 @@
 <img align="center" alt="sky" width=1200 height=200 src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F70000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Hi+There!+👋;+✨My+Name+Is+Nicolen+Evanz!✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F70000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Hi+There!+👋;+✨My+Name+Is+Nicolen+!✨;" />
 </h1>
 
 
