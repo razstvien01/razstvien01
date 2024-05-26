@@ -5,7 +5,7 @@
 </h1>
 
 
-<img align="right" alt="Coding" width="310" height="410" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-right: 10px;">
+<img align="right" alt="Coding" width="320" height="430" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-right: 10px;">
 
 <h3 align="left">🔥A passionate software, computer, backend engineer from the Philippines.</h3>
 
