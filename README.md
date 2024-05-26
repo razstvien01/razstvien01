@@ -1,6 +1,10 @@
 <img align="center" alt="sky" width=1200 height=200 src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
 
-<h1 align="center">✨ Hi 👋, my name is Nicolen. ✨</h1>
+<!-- <h1 align="center">✨ Hi 👋, my name is Nicolen. ✨</h1> -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nicolen+Evanz!;" />
+</h1>
+
 
 <img align="right" alt="Coding" width="310" height="410" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-right: 10px;">
 
