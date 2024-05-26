@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I think I'm funny and good.**
 
-<h2 align="left">🛠️ Languages and Tools 🛠️</h2>
+<h2 align="left">🛠️ Languages, Frameworks, and Tools 🛠️</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
