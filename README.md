@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, my name is Nico.</h1>
 <h3 align="center">A passionate software and computer engineer from Cebu, Philippines.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
 
 <img align="right" alt="Coding" width=380 height=523 src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
 
@@ -28,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=tokyonight&locale=en" alt="razstvien01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razstvien01&theme=dark" alt="razstvien01" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" /></a> </p>
