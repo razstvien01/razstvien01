@@ -1,7 +1,10 @@
 <img align="center" alt="sky" width=1200 height=200 src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
 
 <h1 align="center">Hi 👋, my name is Nicolen.</h1>
-<img align="right" alt="Coding" width="291" height="400" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
+<!-- <img align="right" alt="Coding" width="291" height="400" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif"> -->
+
+<img align="right" alt="Coding" width="325" height="447" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-right: 10px;" />
+
 
 <h3 align="left">A passionate software and computer engineer from Philippines.</h3>
 
