@@ -27,4 +27,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=tokyonight&locale=en" alt="razstvien01" /></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" /></a> </p>
+<p align="center"> <a align="left" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" /></a> </p>
