@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, my name is Nicolen.</h1>
 <img align="right" alt="Coding" width="291" height="400" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
 
-
-<h2 align="left">About Me:</h2>
 <h3 align="left">A passionate software and computer engineer from Cebu, Philippines.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
@@ -174,6 +172,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 
+<h2 align="left">About Me:</h2>
+
 <p align="center">
   <table>
     <tr>
@@ -188,9 +188,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=radical&locale=en" alt="razstvien01" /></p>
+      </td>
+      <td style="padding-left: 10px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" />
+      </td>
+    </tr>
+  </table>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=radical&locale=en" alt="razstvien01" /></p>
