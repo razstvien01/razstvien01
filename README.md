@@ -4,11 +4,15 @@
 
 <img align="right" alt="Coding" width="310" height="400" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-right: 10px;">
 
-<h3 align="left">A passionate software and computer engineer from Philippines.</h3>
+<h3 align="left">A passionate software, computer, backend engineer from the Philippines.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
 
+- 🏫 I graduated at Cebu Institute of Technology - University
+
 - 🔭 I’m currently working on [UI Catalog](https://github.com/razstvien01/ui-catalog)
+
+- 👀 I'm looking for freelance projects where I can develop custom solutions and get paid
 
 - 🌱 I’m currently learning **Flask, UI/UX Design, and Figma**
 
@@ -19,8 +23,6 @@
 - 📫 How to reach me **nicolenevanz.aricayos@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny and good.**
-
-<br>
 
 <br>
 
