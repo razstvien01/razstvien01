@@ -1,10 +1,10 @@
 <img align="center" alt="sky" width=1200 height=200 src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
 
-<h1 align="center">Hi 👋, my name is Nicolen.</h1>
+<h1 align="center">✨ Hi 👋, my name is Nicolen. ✨</h1>
 
 <img align="right" alt="Coding" width="310" height="410" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-right: 10px;">
 
-<h3 align="left">A passionate software, computer, backend engineer from the Philippines.</h3>
+<h3 align="left">🔥A passionate software, computer, backend engineer from the Philippines.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
 
@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I think I'm funny and good.**
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🛠️ Languages and Tools 🛠️</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -173,7 +173,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 
-<h2 align="left">My Stats/h2>
+<h2 align="left">📊 My Stats 📊</h2>
 
 <p align="center">
   <table>
