@@ -38,7 +38,7 @@
   <table>
     <tr>
       <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razstvien01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="razstvien01" style="margin-right: 10px;" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razstvien01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="razstvien01"  />
       </td>
       <td style="padding-left: 10px;">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
