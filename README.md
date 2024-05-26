@@ -1,8 +1,8 @@
 <img align="center" alt="sky" width=1200 height=200 src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
 
 <h1 align="center">Hi 👋, my name is Nico.</h1>
-<h3 align="left">A passionate software and computer engineer from Cebu, Philippines.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
+<h3 align="left">A passionate software and computer engineer from Cebu, Philippines.</h3>
 
 <img align="right" alt="Coding" width=380 height=523 src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
 
