@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=tokyonight&locale=en" alt="razstvien01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razstvien01&theme=dark" alt="razstvien01" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" /></a> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razstvien01&theme=dark" alt="razstvien01" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" /></a> </p>
