@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F70000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Hi+There!+👋;+✨My+Name+Is+Nicolen+!✨;" />
 </h1>
 
-<img align="right" alt="Coding" width="310" height="410" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-right: 10px;">
+<img align="right" alt="Coding" width="320" height="450" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-right: 10px;">
 
 <h3 align="left">🔥A passionate software, computer, backend engineer from the Philippines.</h3>
 
-<p align="right"> <img align="center" src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
 <div align="center"> 
   <a href="mailto:nicolenevanz.aricayos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
