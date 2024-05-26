@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software and computer engineer from Cebu, Philippines.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
 
-<img align="right" alt="Coding" width=380 height=523 src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
+<img align="right" alt="Coding" width="375" height="516" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
 
 - 🔭 I’m currently working on [UI Catalog](https://github.com/razstvien01/ui-catalog)
 
