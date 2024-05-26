@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, my name is Nicolen.</h1>
 <img align="right" alt="Coding" width="291" height="400" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
 
-<h3 align="left">A passionate software and computer engineer from Cebu, Philippines.</h3>
+<h3 align="left">A passionate software and computer engineer from Philippines.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
 
