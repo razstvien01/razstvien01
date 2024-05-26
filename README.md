@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F70000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Hi+There!+👋;+✨My+Name+Is+Nicolen+!✨;" />
 </h1>
 
-<img align="right" alt="Coding" width="320" height="450" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-right: 10px;">
+<img align="right" alt="Coding" width="320" height="450" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-left: 10px;">
 
 <h3 align="left">🔥A passionate software, computer, backend engineer from the Philippines.</h3>
 
