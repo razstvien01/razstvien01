@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, my name is Nico.</h1>
 <h3 align="center">A passionate software and computer engineer from Cebu, Philippines.</h3>
-<img align="right" alt="Coding" width=400 height=550 src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
+<img align="right" alt="Coding" width=380 height=523 src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
 
 - 🔭 I’m currently working on [UI Catalog](https://github.com/razstvien01/ui-catalog)
 
