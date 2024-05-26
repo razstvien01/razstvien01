@@ -1,11 +1,11 @@
 <img align="center" alt="sky" width=1200 height=200 src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
 
-<h1 align="center">Hi 👋, my name is Nico.</h1>
-<h3 align="center">A passionate software and computer engineer from Cebu, Philippines.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
-
 <img align="right" alt="Coding" width="375" height="516" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
 
+<h1 align="left">Hi 👋, my name is Nico.</h1>
+<h3 align="left">A passionate software and computer engineer from Cebu, Philippines.</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
 - 🔭 I’m currently working on [UI Catalog](https://github.com/razstvien01/ui-catalog)
 
 - 🌱 I’m currently learning **Flask, UI/UX Design, and Figma**
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I think I'm funny and good.**
 
-<br><br>
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=radical&locale=en" alt="razstvien01" /></p>
 
