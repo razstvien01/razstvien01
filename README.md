@@ -18,9 +18,11 @@
 
 - ⚡ Fun fact **I think I'm funny and good.**
 
+<br><br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=radical&locale=en" alt="razstvien01" /></p>
 
-<br><br><br><br>
+<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
