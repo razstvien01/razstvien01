@@ -8,7 +8,7 @@
 
 <h3 align="left">🔥A passionate software, computer, backend engineer from the Philippines.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
+<p align="right"> <img align="center" src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
 <div align="center"> 
   <a href="mailto:nicolenevanz.aricayos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
