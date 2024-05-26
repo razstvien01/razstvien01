@@ -25,7 +25,8 @@
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=tokyonight&locale=en" alt="razstvien01" />
+        <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=tokyonight&locale=en" alt="razstvien01" /> -->
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=synthwave&locale=en" alt="razstvien01" /></p>
       </td>
       <td style="padding-left: 10px;">
         <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=razstvien01&theme=dark" alt="razstvien01" style="margin-right: 10px;" />
@@ -38,7 +39,8 @@
   <table>
     <tr>
       <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razstvien01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="razstvien01"  />
+        <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razstvien01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="razstvien01"  /> -->
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razstvien01&show_icons=true&theme=radical&locale=en&layout=compact" alt="razstvien01" /></p>
       </td>
       <td>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
