@@ -20,8 +20,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=radical&locale=en" alt="razstvien01" /></p>
 
+<br><br><br><br>
 
-<h3 align="left">&nbsp&nbsp&nbspLanguages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
