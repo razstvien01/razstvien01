@@ -37,10 +37,10 @@
 <p align="center">
   <table>
     <tr>
-      <td style="width: 60%;">
+      <td style="width: 70%;">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razstvien01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="razstvien01" style="margin-right: 10px; width: 100%;" />
       </td>
-      <td style="padding-left: 10px; width: 40%;">
+      <td style="padding-left: 10px; width: 30%;">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
           <img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" />
         </a>
