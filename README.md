@@ -181,7 +181,7 @@
         <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=radical&locale=en" alt="razstvien01" /></p>
       </td>
       <td style="padding-left: 10px;">
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razstvien01&show_icons=true&theme=radical&locale=en&layout=compact" alt="razstvien01" /></p>
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=razstvien01&theme=dark" alt="razstvien01"/>
       </td>
     </tr>
   </table>
@@ -191,10 +191,10 @@
   <table>
     <tr>
       <td>
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=razstvien01&theme=dark" alt="razstvien01"/>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razstvien01&show_icons=true&theme=radical&locale=en&layout=compact" alt="razstvien01" /></p>
       </td>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" width="500" />
+        <img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" width="550" />
       </td>
     </tr>
   </table>
