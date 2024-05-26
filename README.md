@@ -191,10 +191,10 @@
   <table>
     <tr>
       <td>
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=razstvien01&theme=dark" alt="razstvien01" style="margin-right: 10px;" />
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=razstvien01&theme=dark" alt="razstvien01"/>
       </td>
-      <td style="padding-left: 10px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" />
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" width="300" />
       </td>
     </tr>
   </table>
