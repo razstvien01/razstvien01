@@ -1,8 +1,10 @@
 <img align="center" alt="sky" width=1200 height=200 src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
 
 <h1 align="center">Hi 👋, my name is Nicolen.</h1>
-<img align="right" alt="Coding" width="375" height="516" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
+<img align="right" alt="Coding" width="291" height="400" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif">
 
+
+<h2 align="left">About Me:</h2>
 <h3 align="left">A passionate software and computer engineer from Cebu, Philippines.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
@@ -21,11 +23,9 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=radical&locale=en" alt="razstvien01" /></p>
+<br>
 
-<br><br>
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -192,3 +192,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=razstvien01" alt="razstvien01" />
   </a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=razstvien01&show_icons=true&theme=radical&locale=en" alt="razstvien01" /></p>
