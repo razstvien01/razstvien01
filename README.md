@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [UI Catalog](https://github.com/razstvien01/ui-catalog)
 
-- 👀 I'm looking for projects to develop custom solutions and get paid.
+- 🕒 I'm doing some freelancing stuff during my spare time.
 
 - 🌱 I’m currently learning **Flask, UI/UX Design, and Figma**
 
