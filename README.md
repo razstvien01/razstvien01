@@ -1,4 +1,6 @@
-<img align="center" alt="sky" width="80%" src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
+<div style="flex: 0;" align="center">
+    <img align="center" alt="Coding" src="https://i.pinimg.com/originals/08/cc/a0/08cca0755fa6c45fda26187053cf1f4d.jpg">
+  </div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F70000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Hi+There!+👋✨;+✨My+Name+Is+Nicolen+!✨;" />
@@ -25,15 +27,12 @@
     
     - ⚡ Fun fact **I think I'm funny and good.**
   </div>
-  <div style="flex: 0;" align="center">
-    <img align="right" alt="Coding" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" style="padding-left: 10px;">
-  </div>
+  
 </div>
 
 <div style="margin-top: 30px;">
   <h2 align="left" style="font-size: 24px;">🛠️ Languages, Frameworks, and Tools 🛠️</h2>
 </div>
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
