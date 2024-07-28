@@ -4,12 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F70000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Hi+There!+👋✨;+✨My+Name+Is+Nicolen+!✨;" />
 </h1>
 
-
-
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h3>🔥 A passionate software, computer, backend engineer from the Philippines.</h3>
-    <p><img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /></p>
+    <h3 align="center">🔥 A passionate software, computer, backend engineer from the Philippines.</h3>
+    <p align="center"><img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /></p>
     
     - 🏫 I graduated at Cebu Institute of Technology - University
     
@@ -28,13 +26,14 @@
     - ⚡ Fun fact **I think I'm funny and good.**
   </div>
   <div style="flex: 0;">
-    <img align="right" alt="Coding" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" style="padding-left: 10px;">
+    <img align="right" alt="Coding" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" style="padding-left: 10px;>
   </div>
 </div>
 
 
 
-<h2 align="left">🛠️ Languages, Frameworks, and Tools 🛠️</h2>
+<h2 align="left" style="padding-top: 10px;">🛠️ Languages, Frameworks, and Tools 🛠️</h2>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
