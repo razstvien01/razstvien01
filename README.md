@@ -5,27 +5,34 @@
 </h1>
 
 
-<img align="right" alt="Coding" width="320" height="430" src="https://i.pinimg.com/originals/85/76/e7/8576e72412abae39b4d2cfb74f81d999.gif" style="padding-right: 10px;">
 
-<h3 align="left">🔥A passionate software, computer, backend engineer from the Philippines.</h3>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h3>🔥 A passionate software, computer, backend engineer from the Philippines.</h3>
+    <p><img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /></p>
+    
+    - 🏫 I graduated at Cebu Institute of Technology - University
+    
+    - 🔭 I’m currently working on [UI Catalog](https://github.com/razstvien01/ui-catalog)
+    
+    - 🕒 I'm doing some freelancing stuff during my spare time.
+    
+    - 🌱 I’m currently learning **Flask, UI/UX Design, and Figma**
+    
+    - 👯 I’m looking to collaborate on [Mocking Board](https://github.com/RevyaS/MockingBoard) and [UI Catalog](https://github.com/razstvien01/ui-catalog)
+    
+    - 💬 Ask me about **NextJS, ReactJS, Firebase, MySQL, Sequelize, Flutter**
+    
+    - 📫 How to reach me **nicolenevanz.aricayos@gmail.com**
+    
+    - ⚡ Fun fact **I think I'm funny and good.**
+  </div>
+  <div style="flex: 0;">
+    <img align="right" alt="Coding" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" style="padding-left: 10px;">
+  </div>
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=razstvien01&label=Profile%20views&color=880eb4&style=flat" alt="razstvien01" /> </p>
 
-- 🏫 I graduated at Cebu Institute of Technology - University
-
-- 🔭 I’m currently working on [UI Catalog](https://github.com/razstvien01/ui-catalog)
-
-- 🕒 I'm doing some freelancing stuff during my spare time.
-
-- 🌱 I’m currently learning **Flask, UI/UX Design, and Figma**
-
-- 👯 I’m looking to collaborate on [Mocking Board](https://github.com/RevyaS/MockingBoard) and [UI Catalog](https://github.com/razstvien01/ui-catalog)
-
-- 💬 Ask me about **NextJS, ReactJS, Firebase, MySQL, Sequelize, Flutter**
-
-- 📫 How to reach me **nicolenevanz.aricayos@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny and good.**
 
 <h2 align="left">🛠️ Languages, Frameworks, and Tools 🛠️</h2>
 <div align="center">
