@@ -13,16 +13,8 @@
     
     - 🏫 I graduated at Cebu Institute of Technology - University
     
-    - 🔭 I’m currently working on [UI Catalog](https://github.com/razstvien01/ui-catalog)
-    
     - 🕒 I'm doing some freelancing stuff during my spare time.
-    
-    - 🌱 I’m currently learning **Flask, UI/UX Design, and Figma**
-    
-    - 👯 I’m looking to collaborate on [Mocking Board](https://github.com/RevyaS/MockingBoard) and [UI Catalog](https://github.com/razstvien01/ui-catalog)
-    
-    - 💬 Ask me about **NextJS, ReactJS, Firebase, MySQL, Sequelize, Flutter**
-    
+      
     - 📫 How to reach me **nicolenevanz.aricayos@gmail.com**
     
     - ⚡ Fun fact **I think I'm funny and good.**
