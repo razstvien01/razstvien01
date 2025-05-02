@@ -15,9 +15,9 @@
     
     - 🕒 I'm doing some freelancing stuff during my spare time.
       
-    - 📫 How to reach me **nicolenevanz.aricayos@gmail.com**
+    - 📫 How to reach me: nicolenevanz.aricayos@gmail.com
     
-    - ⚡ Fun fact **I think I'm funny and good.**
+    - ⚡ Fun fact: I think I'm funny and good.
   </div>
   
 </div>
