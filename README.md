@@ -1,5 +1,5 @@
 <div style="flex: 0;" align="center">
-    <img align="center" alt="Coding" src="https://i.pinimg.com/originals/08/cc/a0/08cca0755fa6c45fda26187053cf1f4d.jpg" style="max-width: 100%; height: auto;">
+    <img align="center" alt="Coding" src="https://i.pinimg.com/originals/08/cc/a0/08cca0755fa6c45fda26187053cf1f4d.jpg" style="max-width: 100%; height: 350px;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="width: auto; height: auto;">
 </div>
 <h1 align="center">
